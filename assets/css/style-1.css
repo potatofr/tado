@@ -2,11 +2,11 @@
 
 article {
   text-align: center;
-  position: bottom;
   color: #fff;
-  padding: 5px;
+  padding: 0;
+  position: absolute;
   bottom: 0;
-  width: 50%;
+  width: 99.4%;
   /* position: fixed;
   z-index: 1; */
 }
